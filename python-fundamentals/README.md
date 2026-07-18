@@ -1,6 +1,6 @@
 # Python Fundamentals
 
-Projects built while learning Python for Agentic AI.
+Projects built while learning Python for Agentic AI
 
 ## Projects
 
