@@ -1,5 +1,7 @@
 import asyncio
 from client import fetch_all
+from utils import save_results
+from utils import stream_results
 
 async def main():
     urls = [
@@ -9,7 +11,8 @@ async def main():
     ]
     
     results = await fetch_all(urls)
-    for result in results:
+    save_results(results)
+    for result in stream_results(results):
         print(result)
 
 asyncio.run(main())
