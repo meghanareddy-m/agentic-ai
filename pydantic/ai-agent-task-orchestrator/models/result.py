@@ -1,8 +1,8 @@
 from pydantic import BaseModel
 import uuid
 from pydantic import Field
-from task import Task
-from agent import Agent
+from models.task import Task
+from models.agent import Agent
 from datetime import datetime
 
 class Result(BaseModel):

@@ -1,8 +1,8 @@
 from pydantic import BaseModel
-from task import Task
+from models.task import Task
 from datetime import datetime
 from pydantic import Field
-from agent import Agent
+from models.agent import Agent
 from pydantic import computed_field
 
 class AgentState(BaseModel):
