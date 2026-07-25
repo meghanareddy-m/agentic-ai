@@ -26,6 +26,7 @@ This project was built as a capstone to demonstrate the practical application of
 
 ## Project Architecture
 
+```text
 User
 ↓
 ResearchAgent
@@ -39,6 +40,7 @@ ResearchSession
 ResearchStorage
 ↓
 research_db.json
+```
 
 ## Installation
 
