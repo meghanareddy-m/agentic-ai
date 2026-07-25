@@ -1,0 +1,114 @@
+[
+    {
+        "topic": "pydantic",
+        "timestamp": "2026-07-25T21:48:58.146175",
+        "results": [
+            {
+                "title": "pydantic",
+                "url": "https://github.com/pydantic/pydantic",
+                "source": "GitHub"
+            },
+            {
+                "title": "pydantic-ai",
+                "url": "https://github.com/pydantic/pydantic-ai",
+                "source": "GitHub"
+            },
+            {
+                "title": "pydantic-core",
+                "url": "https://github.com/pydantic/pydantic-core",
+                "source": "GitHub"
+            },
+            {
+                "title": "pydantic-settings",
+                "url": "https://github.com/pydantic/pydantic-settings",
+                "source": "GitHub"
+            },
+            {
+                "title": "pydantic-deepagents",
+                "url": "https://github.com/vstorm-co/pydantic-deepagents",
+                "source": "GitHub"
+            },
+            {
+                "title": "PEP 563, PEP 649 and the future of pydantic and FastAPI",
+                "url": "https://github.com/samuelcolvin/pydantic/issues/2678",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Building your own CLI coding agent with Pydantic-AI",
+                "url": "https://martinfowler.com/articles/build-own-coding-agent.html",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Run structured extraction on documents/images locally with Ollama and Pydantic",
+                "url": "https://github.com/vlm-run/vlmrun-hub",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Approximating sum types in Python with Pydantic",
+                "url": "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Show HN: Oxyde \u2013 Pydantic-native async ORM with a Rust core",
+                "url": "https://github.com/mr-fatalyst/oxyde",
+                "source": "HackerNews"
+            }
+        ]
+    },
+    {
+        "topic": "RAG",
+        "timestamp": "2026-07-25T21:49:56.335766",
+        "results": [
+            {
+                "title": "ragflow",
+                "url": "https://github.com/infiniflow/ragflow",
+                "source": "GitHub"
+            },
+            {
+                "title": "RagaAI-Catalyst",
+                "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+                "source": "GitHub"
+            },
+            {
+                "title": "RAG-Anything",
+                "url": "https://github.com/HKUDS/RAG-Anything",
+                "source": "GitHub"
+            },
+            {
+                "title": "LightRAG",
+                "url": "https://github.com/HKUDS/LightRAG",
+                "source": "GitHub"
+            },
+            {
+                "title": "RAG_Techniques",
+                "url": "https://github.com/NirDiamant/RAG_Techniques",
+                "source": "GitHub"
+            },
+            {
+                "title": "GameStop Is Rage Against the Financial Machine",
+                "url": "https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Production RAG: what I learned from processing 5M+ documents",
+                "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Show HN: FastGraphRAG \u2013 Better RAG using good old PageRank",
+                "url": "https://github.com/circlemind-ai/fast-graphrag",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Meta Superintelligence Labs' first paper is about RAG",
+                "url": "https://paddedinputs.substack.com/p/meta-superintelligences-surprising",
+                "source": "HackerNews"
+            },
+            {
+                "title": "Mark Zuckerberg and his empire of oily rags",
+                "url": "https://craphound.com/news/2018/07/02/mark-zuckerberg-and-his-empire-of-oily-rags/",
+                "source": "HackerNews"
+            }
+        ]
+    }
+]
